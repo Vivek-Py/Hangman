@@ -1,7 +1,9 @@
 ## Hangman Game
 
 Select a letter to figure out a hidden word in a set amount of chances.
-![Game Screenshot](https://github.com/Vivek-Py/Hangman/blob/master/game.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Vivek-Py/Hangman/blob/master/game.jpg">
+</p>
 
 ## Project Specifications
 
